@@ -3,7 +3,8 @@ Das Ziel des KarteSpiels ist es, die Punktzahl so nah wie möglich an die Zahl 2
 Jedes mal ausgewählte Geldsumme betten -> Gewinn: Geld verdoppeln, Verlust: Geld verlieren. <br/><br/>
 Inhalt: 
 * 5 Spielrunden, randomisierte Karteziehen für Spieler und Dealer
-* Vererbung zwischen bestimmte Kartetypen Partituren an eine Datei speichern, Bestenliste am Ende
+* Vererbung zwischen bestimmte Kartetypen
+* Partituren an eine Datei speichern, Bestenliste am Ende
 * Benutzer-Interaktion via Konsole
 * Unit-Teste
 
