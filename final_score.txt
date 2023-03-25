@@ -1,0 +1,9 @@
+2022-01-03, 1. Partitur, Geldbetrag: 113, Name: Ioana
+2022-01-03, 2. Partitur, Geldbetrag: 75, Name: Laura
+2022-01-03, 3. Partitur, Geldbetrag: 20, Name: Denis
+2022-01-03, 4. Partitur, Geldbetrag: 0, Name: Hans
+2022-01-03, 5. Partitur, Geldbetrag: 109, Name: George
+2022-01-03, 6. Partitur, Geldbetrag: 160, Name: Catalin
+2022-01-03, 7. Partitur, Geldbetrag: 40, Name: Gerald
+2022-01-03, 8. Partitur, Geldbetrag: 30, Name: Ron
+2023-03-22, 9. Partitur, Geldbetrag: 100, Name: Charlotte
